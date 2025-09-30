@@ -1,6 +1,6 @@
 # GraphRanker – Data Structures and Algorithms final Project
 
-This project implements **GraphRanker**, a program developed as part of the Data Structures and Algorithms coursework project.  
+This project implements **GraphRanker**, a program developed as part of the Data Structures and Algorithms coursework.  
 It focuses on efficient graph manipulation and ranking based on shortest paths.
 
 ## 🚀 Project Overview
@@ -33,10 +33,10 @@ TopK<br>
 
 ## 📂 Repository Structure
 - `Delivery/` – C source code (`API_Project_Buranti.c`)
-- `testgenerator.py` – Python utility for generating test cases
+- `inputgen.py, suitegen.py` – Python utility for generating test cases
 
 ## 🏆 Evaluation
-This project was submitted and was awarded the maximum grade of **30L**.  
+This project was awarded the maximum grade of **30L**.  
 The evaluation was based on automated testing of correctness and efficiency across multiple test batteries.
 
 
